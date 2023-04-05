@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: rgb(57, 252, 57);
+}
+
+.Name {
+    color: rgb(57, 252, 57);;
+}
+
+.desc {
+    margin-bottom: 30px;
+}
+
+#link0 {
+    color: rgb(38, 162, 38);
+    text-decoration: none;
+}
+
+#link0:hover {
+    color: rgb(57, 252, 57);
+}
+
+#heart {
+    color: red;
+}
+
+.hello {
+    margin-bottom: -70px;
+}
+
+img {
+    width: 50px;
+    height: 58px;
+    margin-left: 370px;
+    margin-top: 14px;
+    padding-bottom: 20px;
+}
